@@ -2,7 +2,7 @@
 # ArenaTwin
 # arenaTwin 🏟️
 
-![App Logo](Resources/Assets/Assets.xcassets/app_logo.imageset/app_logo.jpeg)
+![App Logo](ArenaTwin0/ArenaTwin0/Resources/Assets.xcassets/profile.imageset/app_logo.jpeg)
 
 ## نبذة عن المشروع (Project Overview)
 
